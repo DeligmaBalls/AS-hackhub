@@ -10,6 +10,6 @@ This software is to control your local wifi
 so make sure to download it in the link below For to to work
 https://www.winpcap.org/install/default.htm
 
-# DoxxHub
+# DoxxTime
 Search info about ip's
 not much needed to say
