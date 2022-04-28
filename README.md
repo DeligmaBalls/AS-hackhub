@@ -2,6 +2,7 @@
 This is a Hub containing Cyber offense software,I AM NOT RESPONSIBLE FOR HOW YOU USE IT.
 All software here are made by mudamdua-droid12
 
+And for it to work always open it on administrator:)
 Now to explain the softwares inside
 # WifiBlock
 This software is to control your local wifi
